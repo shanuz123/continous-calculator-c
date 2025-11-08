@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shanuz123/continuos-calculator-c/blob/main/banner.png" alt="Continuous Calculator in C" width="800">
+  <img src="[https://github.com/shanuz123/continuos-calculator-c/blob/main/banner.png](https://raw.githubusercontent.com/shanuz123/continous-calculator-c/refs/heads/main/banner.png)" alt="Continuous Calculator in C" width="800">
 </p>
 
 <h1 align="center">🧮 Continuous Calculator in C</h1>
