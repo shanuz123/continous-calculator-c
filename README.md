@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/shanuz123/continuos-calculator-c/blob/main/banner.png](https://raw.githubusercontent.com/shanuz123/continous-calculator-c/refs/heads/main/banner.png)" alt="Continuous Calculator in C" width="800">
+  <img src="https://raw.githubusercontent.com/shanuz123/continous-calculator-c/refs/heads/main/banner.png" alt="Continuous Calculator in C" width="800">
 </p>
 
 <h1 align="center">🧮 Continuous Calculator in C</h1>
@@ -7,7 +7,6 @@
 <p align="center">
   <em>A simple yet powerful continuous calculator built in C that performs multiple operations efficiently.</em>
 </p>
-
 ## 📘 Overview  
 The **Continuous Calculator** is a simple yet powerful calculator program built in **C language**.  
 It performs continuous arithmetic operations just like a real calculator — allowing you to chain multiple calculations without restarting the program.  
