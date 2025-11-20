@@ -105,7 +105,7 @@ continuous-calculator-c/
 
 🧑‍💻 About the Developer
 
-Hi 👋, I’m Shanavas Shafi (Shanu) — a passionate learner exploring programming and cybersecurity.
+Hi 👋, I’m Shanavas Shafi — a passionate learner exploring programming and cybersecurity.
 This calculator is one of my first projects in C programming, built completely from scratch using only a mobile environment (Termux).
 
 I believe in learning by building 💪 — every line of this code represents progress in my developer journey.
